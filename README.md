@@ -1,2 +1,18 @@
-# react-sidebar
-how to make react-siderbar
+
+# 목차
+
+1. 작성해놓은 파일들
+
+참조: 221214대전 엑스포 프로젝트 코드분석 ; 클래스모델링
+
+
+
+
+
+
+
+2. Manager
+
+3. 게임 플로우
+
+
